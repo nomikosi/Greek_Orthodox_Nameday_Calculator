@@ -1,0 +1,26 @@
+{
+  "name": "CelebrationService",
+  "version": "0.0.1",
+  "main": "./",
+  "author": {
+    "name": "Iakovos Nomikos",
+    "email": "jacknomikos@gmail.com"
+  },
+  "keywords": [],
+  "licenses": {
+    "type": "MIT"
+  },
+  "repository": {
+    "type": "svn",
+    "url": ""
+  },
+  "bugs": {
+    "url": "https://github.com/jack86/Greek_Orthodox_Nameday_Service"
+  },
+  "dependencies": {
+    "basic-auth": "^1.0.3",
+    "express": "^4.13.3",
+    "http-auth": "^2.2.8",
+    "mongodb": "^2.0.49"
+  }
+}

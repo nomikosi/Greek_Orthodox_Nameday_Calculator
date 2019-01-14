@@ -1,0 +1,44 @@
+	[
+		{
+			"CelebrationNames": ["Θεόδωρος","ΘΕΟΔΩΡΟΣ"],  "IsEasterRelated":"0",
+			"CelebrationMonth": "NULL",
+			"CelebrationDay": "NULL",
+			"IsStatic": "0",
+			"Difference": "-43"
+		},
+		{
+			"CelebrationNames": ["Βάϊα","ΒΑΪΑ"], "IsEasterRelated":"0",
+			"CelebrationMonth": "NULL",
+			"CelebrationDay": "NULL",
+			"IsStatic": "0",
+			"Difference": "-7"
+		},
+		{
+			"CelebrationNames": ["ΛΑΖΑΡΟΣ","Λάζαρος"],  "IsEasterRelated":"0",
+			"CelebrationMonth": "NULL",
+			"CelebrationDay": "NULL",
+			"IsStatic": "0",
+			"Difference": "-8"
+		},
+		{
+			"CelebrationNames": ["Γιωργία","Γεωργία","ΓΕΩΡΓΙΟΣ","Γεώργιος","Γιώργος"],  "IsEasterRelated":"1",
+			"CelebrationMonth": "4",
+			"CelebrationDay": "23",
+			"IsStatic": "1",
+			"Difference": "1"
+		},
+		{
+			"CelebrationNames": ["Πηγή","ΖΩΗ","Ζωή","ΠΗΓΗ"],  "IsEasterRelated":"0",
+			"CelebrationMonth": "NULL",
+			"CelebrationDay": "NULL",
+			"IsStatic": "0",
+			"Difference": "5"
+		},
+		{
+			"CelebrationNames": ["Θωμάς","ΘΩΜΑΣ"], "IsEasterRelated":"0",
+			"CelebrationMonth": "NULL",
+			"CelebrationDay": "NULL",
+			"IsStatic": "0",
+			"Difference": "7"
+		}
+	]
